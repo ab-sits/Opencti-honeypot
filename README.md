@@ -1,4 +1,4 @@
-# OpenCTI Docker deployment
+# OpenCTI für STIX FEED aus Honeypods
 
 ## Documentation
 
